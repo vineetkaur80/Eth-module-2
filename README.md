@@ -110,8 +110,8 @@ function burnTokens(uint _amount)external{
         _burn(msg.sender, _amount);
     }
 burnTokens: Allows any user to burn (destroy) a specified amount of their tokens, reducing the total supply.
-# AUTHORS
+# Authors
 Vineet Kaur
 kaurvineet80@gmail.com
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details
